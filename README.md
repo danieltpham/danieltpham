@@ -4,11 +4,11 @@ I am a skilled data scientist with expertise in statistical modelling with R, ma
 
 > 🔭 Actively looking for data scientist & bioinformatician positions in Australia :australia:
 > 
-> 💬 Get to know me: https://danielpham.com.au/
+> 💬 Get to know me: [https://www.danielpham.com.au/](https://www.danielpham.com.au/)
 > 
 > 😄 Pronouns: He/him
 > 
-> 🥇 My best public work so far: http://yellowtaxi.danielpham.com.au/
+> 🥇 My best public work so far: [A scoping review of supervised learning modelling and data-driven optimisation in monoclonal antibody process development](https://www.sciencedirect.com/science/article/pii/S2772508122000710)
 
 ## :star2: Expertise
 
@@ -26,5 +26,5 @@ I am a skilled data scientist with expertise in statistical modelling with R, ma
 |:---:|:---:|:---:|
 
 ## 📫 How to reach me
-|<a href="https://danielpham.com.au"><img align="center" alt="Daniel's Website" src="https://img.icons8.com/bubbles/50/000000/domain.png"/></a>|<a href="https://linkedin.com/daniel-pham-data"><img align="center" alt="Daniel's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/></a>|<a href="https://github.com/danieltpham"><img align="center" alt="Daniel's GitHub" src="https://img.icons8.com/bubbles/50/000000/github.png"/></a>|
+|<a href="https://www.danielpham.com.au"><img align="center" alt="Daniel's Website" src="https://img.icons8.com/bubbles/50/000000/domain.png"/></a>|<a href="https://linkedin.com/daniel-pham-data"><img align="center" alt="Daniel's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/></a>|<a href="https://github.com/danieltpham"><img align="center" alt="Daniel's GitHub" src="https://img.icons8.com/bubbles/50/000000/github.png"/></a>|
 |:---:|:---:|:---:|
