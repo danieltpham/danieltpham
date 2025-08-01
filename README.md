@@ -1,27 +1,48 @@
-# Daniel Pham | Senior Data Scientist | PhD
+[<img src="https://danielpham.com.au/assets/banner.png" alt="Daniel Pham banner" width="100%">](https://danielpham.com.au)
 
-👋 Hi, I'm Daniel — a senior data scientist driving machine learning innovation across bioengineering, R&D, and advanced analytics.
-
-- 🏢 Data Scientist @ CSL Limited | PhD research on robust & uncertainty-aware ML for real-world modelling and optimisation  
-- 🧠 I build cloud solutions, ML platforms, and custom analytics tools that transform R&D, operations, and digital workflows at scale  
-- 🎓 Experienced educator and mentor — delivered 10+ data science courses, led 50+ industry-linked student projects, and run 10+ workshops  
-- 📖 Author of 4+ research publications; presenter at international conferences on ML, optimisation, and applied AI
-
-## 💡 Technical Focus
-- **Data & ML Platforms:** Python, FastAPI, R, dbt, Databricks, AWS, GCP, Docker, AutoML, PostgreSQL, Next.js, ReactJS, Typescript
-- **Advanced Analytics:** LangChain / AI Agents, simulation & optimisation, conformal prediction 
-- **BI & Visualisation:** Power BI, Plotly, Shiny, Streamlit, Dash
-- **Automation:** UiPath, Power Automate, API integration
-
-## 🚀 Career Highlights
-- ❇️ Built and scaled 8+ analytics/data platforms, serving 350+ users globally
-- 📈 Reduced data retrieval and reporting time by 60% and 40%, respectively
-- 🏆 Published, presented, and deployed ML frameworks with 10% higher predictive accuracy than leading commercial tools
-- 🌱 Promoting robust, ethical AI through research, workshops, and open mentoring
-
-## 📫 Let's Connect!
-[Website](https://www.danielpham.com.au) | [LinkedIn](https://linkedin.com/in/pham-daniel) | [Google Scholar](https://scholar.google.com.au/citations?user=sV7j3B0AAAAJ)
+### Hi there, I'm Daniel 👋  
+_Senior Data Scientist | PhD in Data Science | Educator | Builder of ML Systems_
 
 ---
 
-<!-- Add project showcase table and up-to-date pinned repos here -->
+- 🧠 Currently a **Data Scientist @ CSL**, building production ML tools and analytics platforms for global R&D and manufacturing
+- 🎓 **PhD research** in uncertainty-aware ML, surrogate modelling, and robust optimisation — published 4 papers, presented at 3 international conferences
+- 👥 Taught **10+ courses** and mentored **50+ students** across capstone projects, workshops, and graduate programs
+- 🚀 Built and deployed **8+ full-stack platforms** (Python, dbt, FastAPI, Power BI) used by **350+ global users**
+- 📈 Focused on **scalable ML, simulation, data platforms, and enterprise-ready automation**
+
+---
+
+### 🔧 Technical Focus
+
+- **Data & ML Platforms:** Python, FastAPI, R, dbt, Databricks, AWS, Docker  
+- **Advanced Analytics:** Conformal prediction, AutoML, GPR, simulation, digital twins  
+- **BI & Frontend:** Power BI, Plotly, Shiny, React  
+- **Automation & Workflow:** UiPath, Power Automate, CI/CD, Agile  
+- **Teaching & Mentorship:** Data science literacy, capstone supervision, placement coaching  
+
+---
+
+### 🧪 Featured Work
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danieltpham&repo=robolytics-platform)](https://github.com/danieltpham/robolytics-platform)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danieltpham&repo=chromatography-sim)](https://github.com/danieltpham/chromatography-sim)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danieltpham&repo=comparator-2.0)](https://github.com/danieltpham/comparator-2.0)
+
+<!-- Replace with your actual project repos above -->
+
+---
+
+### 📫 Connect with me
+
+- 🌐 [danielpham.com.au](https://danielpham.com.au)
+- 💼 [LinkedIn](https://linkedin.com/in/pham-daniel)
+- 🧪 [Google Scholar](https://scholar.google.com) *(optional if applicable)*
+- 🐙 [GitHub](https://github.com/danieltpham)
+
+---
+
+<!-- GitHub contribution snake animation -->
+<a href="https://github.com/danieltpham">
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/danieltpham/danieltpham/output/github-contribution-grid-snake.svg">
+</a>
