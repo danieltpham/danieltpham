@@ -14,9 +14,9 @@ _Data Scientist | PhD in Data Science | Educator | Builder of ML Systems_
 ### 🔧 Technical Focus
 
 - **Data & ML Platforms:** Python, FastAPI, R, dbt, Databricks, AWS, Docker  
-- **Advanced Analytics:** Conformal prediction, AutoML, GPR, simulation, digital twins  
-- **BI & Frontend:** Power BI, Plotly, Shiny, React  
-- **Automation & Workflow:** UiPath, Power Automate, CI/CD, Agile  
+- **Advanced Analytics:** AutoML, LangChain / LLM, Bayesian, Digital twins  
+- **BI & Frontend:** Power BI, Plotly, Shiny, React, Next.js, Typescript
+- **Automation & Workflow:** UiPath, Power Automate, CI/CD, Agile
 - **Teaching & Mentorship:** Data science literacy, capstone supervision, placement coaching  
 
 ---
