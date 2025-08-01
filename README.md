@@ -1,30 +1,56 @@
-### Hello, I'm Daniel Pham 👋
+# 👋 Hi, I'm Daniel Pham
 
-I am a skilled data scientist with expertise in statistical modelling with R, machine learning with Python, web app development, SQL and NoSQL database management. I am passionate about researching and applying data science in the Bioengineering and Biomedical domains through developing machine learning algorithms and biostatistical models in a responsible and ethical manner.
+I'm a data scientist and engineer with 5+ years' experience delivering production-grade ML systems, analytics platforms, and simulation tools across enterprise R&D, digital health, and academic research.
 
-> 🔭 Actively looking for data scientist & bioinformatician positions in Australia :australia:
-> 
-> 💬 Get to know me: [https://www.danielpham.com.au/](https://www.danielpham.com.au/)
-> 
-> 😄 Pronouns: He/him
-> 
-> 🥇 My best public work so far: [A scoping review of supervised learning modelling and data-driven optimisation in monoclonal antibody process development](https://www.sciencedirect.com/science/article/pii/S2772508122000710)
+🔧 I build scalable, interpretable, and deployable solutions — from full-stack data platforms and AutoML pipelines to uncertainty-aware models for high-impact decision-making.
 
-## :star2: Expertise
+🎓 I’m nearing completion of a PhD in data science, focused on robust modelling and optimisation for complex bioprocess systems. My research has led to 4 peer-reviewed publications and 3 international conference presentations.
 
-* Data Science Web Application Development [R Shiny | Docker]
-* Interactive Data Visualisation [Plotly]
-* Data Wrangling [pandas | tidyverse]
-* Machine Learning [scikit-learn | tensorflow]
-* Database Design and Migration [SQL | MongoDB | SQLite]
-* Applied Statistics [Linear Models | GLMs | Bayesian Inference]
-* Web Design [Wordpress | React | NodeJS]
+📌 Currently open to mid-to-senior roles in:
+- Data science / ML engineering
+- Applied AI / simulation modelling
+- Data platform architecture
+- AI in manufacturing, healthcare, or digital products
 
-## :rocket: Favorite Programming Languages
+---
 
-|<img align="center" alt="R Icon" src="https://img.icons8.com/bubbles/50/000000/r.png"/>|<img align="center" alt="Python Icon" src="https://img.icons8.com/dusk/50/000000/python.png"/>|<img align="center" alt="SQL Icon" src="https://img.icons8.com/dusk/50/000000/sql.png"/>|
-|:---:|:---:|:---:|
+## 🧠 Core Expertise
 
-## 📫 How to reach me
-|<a href="https://www.danielpham.com.au"><img align="center" alt="Daniel's Website" src="https://img.icons8.com/bubbles/50/000000/domain.png"/></a>|<a href="https://linkedin.com/daniel-pham-data"><img align="center" alt="Daniel's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/></a>|<a href="https://github.com/danieltpham"><img align="center" alt="Daniel's GitHub" src="https://img.icons8.com/bubbles/50/000000/github.png"/></a>|
-|:---:|:---:|:---:|
+- **Machine Learning & Optimisation**  
+  Conformal prediction · GPR · surrogate modelling · simulation · AutoML · PyTorch · scikit-learn · FLAML
+
+- **ML Engineering & Deployment**  
+  FastAPI · Docker · GitHub Actions · API-first design · MLOps workflows · CI/CD · Databricks
+
+- **Data Platforms & Engineering**  
+  dbt · SQLAlchemy · Spark · Redshift · S3 · Airflow · PostgreSQL · ELNs · SAP integration
+
+- **Frontend / App Dev / Analytics**  
+  Shiny · Power BI · Plotly · React · Power Apps · Posit · Tableau
+
+- **Collaboration & Delivery**  
+  Agile · Scrum lead · stakeholder alignment · cross-functional mentoring · data science literacy advocacy
+
+---
+
+## 🚀 Featured Projects
+
+---
+
+## 📚 Publications & Recognition
+
+- 📝 *4 peer-reviewed papers* — on uncertainty-aware ML, surrogate modelling, and bioprocess optimisation  
+- 🎤 *3 international conferences* — ICML workshops, COPA, and more  
+- 🏆 *Runner-up: Study Melbourne Future Founders Pitch Competition (2023)*
+
+---
+
+## 🌐 Connect with Me
+
+- 💼 [danielpham.com.au](https://danielpham.com.au)  
+- 💬 [linkedin.com/in/pham-daniel](https://linkedin.com/in/pham-daniel)  
+- 🧠 [Google Scholar](https://scholar.google.com/) (optional if research is core)
+
+---
+
+Thanks for stopping by!
