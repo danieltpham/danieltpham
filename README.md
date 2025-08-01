@@ -1,5 +1,5 @@
 ### Hi there, I'm Daniel 👋  
-_Senior Data Scientist | PhD in Data Science | Educator | Builder of ML Systems_
+_Data Scientist | PhD in Data Science | Educator | Builder of ML Systems_
 
 ---
 
