@@ -1,6 +1,7 @@
 ### Hi there, I'm Daniel 👋  
-_Data Scientist | PhD in Data Science | Educator | Builder of ML Systems_
+_Full-Stack Data Scientist | PhD in Data Science | Educator | JRPG Lover_
 
+![GitHub Stats](https://github-readme-stats-iota-azure-62.vercel.app/api?username=danieltpham&show_icons=true&count_private=true&hide_title=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&rank_icon=github&hide_border=true)
 
 > - 🧠 Currently a **Data Scientist**, building production ML tools and analytics platforms for global R&D and manufacturing
 > - 🎓 **PhD research** in uncertainty-aware ML, surrogate modelling, and robust optimisation — published 4 papers, presented at 3 international conferences
@@ -8,7 +9,6 @@ _Data Scientist | PhD in Data Science | Educator | Builder of ML Systems_
 > - 🚀 Built and deployed **8+ full-stack platforms** (Python, dbt, FastAPI, Power BI) used by **350+ global users**
 > - 📈 Focused on **scalable ML, simulation, data platforms, and enterprise-ready automation**
 
-### 🔧 Technical Focus
 
 |            | Skills                                                  |
 |---------------------|--------------------------------------------------------------|
@@ -20,19 +20,17 @@ _Data Scientist | PhD in Data Science | Educator | Builder of ML Systems_
 | <img src="icons/iconbw-rpa@2x.png" width=50>       | `UiPath` · `Power Automate` · `CI/CD`    |
 
 
----
-
-<!--### 🧪 Featured Work
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danieltpham&repo=robolytics-platform)](https://github.com/danieltpham/robolytics-platform)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danieltpham&repo=chromatography-sim)](https://github.com/danieltpham/chromatography-sim)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danieltpham&repo=comparator-2.0)](https://github.com/danieltpham/comparator-2.0)
-
 
 ---
--->
 
-### 📫 Connect with me
+### 👇 Cool Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danieltpham&repo=simteam&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&hide_border=true)](https://github.com/danieltpham/simteam)
+
+
+---
+
+### 📫 Social
 
 - 🌐 [danielpham.com.au](https://danielpham.com.au)
 - 💼 [LinkedIn](https://linkedin.com/in/pham-daniel)
