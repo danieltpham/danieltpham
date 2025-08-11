@@ -27,6 +27,7 @@ _Full-Stack Data Scientist | PhD in Data Science | Educator | JRPG Lover_
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danieltpham&repo=simteam&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&hide_border=true)](https://github.com/danieltpham/simteam)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danieltpham&repo=orderly&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&hide_border=true)](https://github.com/danieltpham/orderly)
 
 ---
 
